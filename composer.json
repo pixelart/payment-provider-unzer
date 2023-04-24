@@ -10,7 +10,8 @@
   "prefer-stable": true,
   "require": {
     "unzerdev/php-sdk": "^1.1.3.0",
-    "pimcore/pimcore": "^11.0"
+    "pimcore/pimcore": "^11.0",
+    "pimcore/ecommerce-framework-bundle": "^1.0"
   },
   "conflict": {
     "pimcore/pimcore": "v11.0.0-ALPHA1 || v11.0.0-ALPHA2"
